@@ -50,7 +50,7 @@ Extract the file and copy "Online Voting System" folder
 
 Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs)
 
-Open PHPMyAdmin http://localhost/phpmyadmin
+Open PHPMyAdmin: Localhost:8080/phpmyadmin
 
 Create a database with name Online Voting System
 
