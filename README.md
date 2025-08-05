@@ -57,3 +57,6 @@ Create a database with name Online Voting System
 Import .sql file(given inside the zip package in db file folder)
 
 Run the script
+
+<img width="967" height="471" alt="image" src="https://github.com/user-attachments/assets/442fbcd9-4151-4448-b8f5-08fab3c53f6d" />
+
